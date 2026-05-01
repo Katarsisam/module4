@@ -53,8 +53,12 @@ write memory
 
 **Конфигурации коммутаторов:**
 
-[configs](configs/config_switch_1.txt)
-[configs](configs/config_switch_2.txt)
-[configs](configs/config_switch_3.txt)
-[configs](configs/config_switch_4.txt)
-[configs](configs/config_switch_5.txt)
+[config_switch_1](configs/config_switch_1.txt)
+
+[config_switch_2](configs/config_switch_2.txt)
+
+[config_switch_3](configs/config_switch_3.txt)
+
+[config_switch_4](configs/config_switch_4.txt)
+
+[config_switch_5](configs/config_switch_5.txt)
