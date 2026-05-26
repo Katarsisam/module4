@@ -104,13 +104,13 @@ write memory
 **VLAN20**
 
 
-![ping](screens/wire_vlan20.png)
+![wire](screens/wire_vlan20.png)
 
 
 **VLAN333**
 
 
-![ping](screens/wire_vlan333.png)
+![wire](screens/wire_vlan333.png)
 
 
 ## 4. Сохранить файлы конфигураций устройств в виде набора файлов с именами, соответствующими именам устройств
