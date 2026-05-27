@@ -137,7 +137,7 @@ write memory
 
 **Wire dhpc**
 
-[ping](screens/wire.png)
+![wire](screens/wire.png)
 
 
 **Примечание:**
