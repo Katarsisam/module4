@@ -1,0 +1,16 @@
+Gateway of last resort is not set
+
+     10.0.0.0/8 is variably subnetted, 13 subnets, 2 masks
+C       10.0.10.0/24 is directly connected, FastEthernet1/0
+R       10.1.3.0/24 [120/1] via 10.1.4.1, 00:00:59, FastEthernet0/0
+R       10.1.2.0/24 [120/1] via 10.1.4.1, 00:00:59, FastEthernet0/0
+R       10.1.1.0/24 [120/2] via 10.1.4.1, 00:00:59, FastEthernet0/0
+O IA    10.2.6.0/24 [110/3] via 10.0.10.2, 00:10:51, FastEthernet1/0
+O IA    10.2.7.0/24 [110/3] via 10.0.10.3, 00:10:51, FastEthernet1/0
+C       10.1.4.0/24 is directly connected, FastEthernet0/0
+O IA    10.0.26.0/24 [110/2] via 10.0.10.2, 00:10:52, FastEthernet1/0
+O IA    10.0.38.0/24 [110/2] via 10.0.10.3, 00:10:52, FastEthernet1/0
+O IA    10.0.37.0/24 [110/2] via 10.0.10.3, 00:10:52, FastEthernet1/0
+O IA    10.0.58.0/24 [110/3] via 10.0.10.3, 00:10:52, FastEthernet1/0
+O IA    10.0.67.0/30 [110/3] via 10.0.10.2, 00:10:52, FastEthernet1/0
+O IA    10.0.67.0/24 [110/3] via 10.0.10.3, 00:11:08, FastEthernet1/0
